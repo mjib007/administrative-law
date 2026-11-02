@@ -9,5 +9,6 @@
 | 系列 | 集 | 主題 | 講義 | 影片 |
 |---|---|---|---|---|
 | 行政程序法 | 1 | 收到政府公文，就是行政處分嗎？ | [lectures/admin-procedure-92-95-administrative-disposition.html](lectures/admin-procedure-92-95-administrative-disposition.html) | https://youtube.com/shorts/LTPUi0lgQac |
+| 行政程序法 | 2 | 作成不利處分前，可以先說明嗎？ | [lectures/admin-procedure-102-106-hearing.html](lectures/admin-procedure-102-106-hearing.html) | https://youtube.com/shorts/t2u6HN4bMQY |
 
 教學整理，不代替個案法律判斷；案例皆為教學假設。
